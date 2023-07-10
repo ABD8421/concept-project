@@ -1,0 +1,19 @@
+.box1{
+    padding: 20px;
+    background-color: aqua;
+    width:110px;
+}
+.box2{
+    background-color: blue;
+    width:110px;
+    padding: 20px;
+}
+.box3{
+    background-color: black;
+    width: 110px;
+    padding: 20px;
+}
+.intro{
+    display: flex;
+    justify-content: space-evenly;
+}
